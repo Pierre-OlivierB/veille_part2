@@ -10,8 +10,6 @@
 
 #### Mix :
 
-https://codepen.io/FlexipleTech/pen/QWVbQMd
-
 ### Done :
 
 #### Css :
@@ -20,8 +18,10 @@ https://codepen.io/FlexipleTech/pen/QWVbQMd
 
 #### Js :
 
--Array.flat() = del empty target in array
+- Array.flat() = del empty target in array
 
 #### Mix :
 
--Stars : https://codepen.io/RitikaAgrawal08/full/MWqKMZX
+- Stars : https://codepen.io/RitikaAgrawal08/full/MWqKMZX
+
+- Imgs reactions : https://codepen.io/FlexipleTech/pen/QWVbQMd
