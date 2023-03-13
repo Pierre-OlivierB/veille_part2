@@ -6,11 +6,7 @@
 
 #### Css :
 
-- aspect-ratio on img tag
-
 #### Js :
-
--Array.flat() = del empty target in array
 
 #### Mix :
 
@@ -23,5 +19,7 @@ https://codepen.io/FlexipleTech/pen/QWVbQMd
 - aspect-ratio on img tag
 
 #### Js :
+
+-Array.flat() = del empty target in array
 
 #### Mix :
