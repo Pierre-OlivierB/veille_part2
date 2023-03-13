@@ -6,3 +6,14 @@
 /* body {
   background: red;
 } */
+body {
+  height: 100vh;
+}
+/**aspect-ratio on img tag  */
+.first_art {
+  padding: 5px;
+}
+.first_art img {
+  width: 50%;
+  aspect-ratio: 4/4;
+}

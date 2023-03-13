@@ -19,3 +19,9 @@ https://codepen.io/RitikaAgrawal08/full/MWqKMZX
 https://codepen.io/FlexipleTech/pen/QWVbQMd
 
 ### Done :
+
+- aspect-ratio on img tag
+
+#### Js :
+
+#### Mix :
