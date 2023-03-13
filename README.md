@@ -10,11 +10,11 @@
 
 #### Mix :
 
-https://codepen.io/RitikaAgrawal08/full/MWqKMZX
-
 https://codepen.io/FlexipleTech/pen/QWVbQMd
 
 ### Done :
+
+#### Css :
 
 - aspect-ratio on img tag
 
@@ -23,3 +23,5 @@ https://codepen.io/FlexipleTech/pen/QWVbQMd
 -Array.flat() = del empty target in array
 
 #### Mix :
+
+-Stars : https://codepen.io/RitikaAgrawal08/full/MWqKMZX
